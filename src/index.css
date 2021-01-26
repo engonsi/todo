@@ -1,0 +1,16 @@
+:root {
+  --main-background: rgb(30, 40, 50);
+  --main-done: rgb(154, 228, 154);
+  --main-active: rgb(255, 151, 151);
+  --main-filter: rgb(255, 222, 161);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--main-background);
+}
